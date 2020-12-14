@@ -10,7 +10,8 @@ I am Kadir! I am a Front End / Mobile Application Developer. I am developing Mob
  <li>Python</li>   
  <li>HTML</li>  
  <li>CSS</li>
- <li>JS</li>   
+ <li>JS</li>
+ <li>DOM</li> 
  <li>React</li> 
  <li>React Native</li>
  <li>Node.js</li>
@@ -18,7 +19,10 @@ I am Kadir! I am a Front End / Mobile Application Developer. I am developing Mob
  <li>MySQL</li>
  <li>PostgreSQL</li>
  <li>MongoDB</li>
- <li>django</li>
+ <li>Django</li>
+ <li>Jira</li>
+ <li>ClickUp</li>
+ <li>WordPress</li>
 </ul>
 
 
