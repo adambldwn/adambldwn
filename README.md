@@ -1,16 +1,31 @@
-### Hi there 👋
+## Hi there 👋
+I am Kadir! I am a Front End / Mobile Application Developer. I am developing Mobile Application and Web using React Native and ReactJS
 
-<!--
-**adambldwn/adambldwn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github.com/ezranbayantemur/ezranbayantemur/blob/master/animation_500_kd7ngokt.gif" alt="react-native" width=200 height=200 align="right">
 
-Here are some ideas to get you started:
+### What I'm use? 🛠  
+<ul>                  
+ <li>Ubuntu</li>
+ <li>VS Code</li>
+ <li>Python</li>   
+ <li>HTML</li>  
+ <li>CSS</li>
+ <li>JS</li>   
+ <li>React</li> 
+ <li>React Native</li>
+ <li>Node.js</li>
+ <li>Express.js</li>
+ <li>MySQL</li>
+ <li>PostgreSQL</li>
+ <li>MongoDB</li>
+ <li>django</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<a href="https://www.linkedin.com/in/kadir-yildirim-a5a433200/" target="_blank">
+    <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/kadir-yildirim-a5a433200/">
+</a>
+
+<a href="mailto:kadiryildirim2022@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:kadiryildirim2022@gmail.com">
+</a>
