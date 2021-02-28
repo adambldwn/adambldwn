@@ -19,7 +19,6 @@ I am Kadir! I am a Front End / Mobile Application Developer. I am developing Mob
  <li>MySQL</li>
  <li>PostgreSQL</li>
  <li>MongoDB</li>
- <li>Django</li>
  <li>Jira</li>
  <li>ClickUp</li>
  <li>WordPress</li>
