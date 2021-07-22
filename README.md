@@ -26,7 +26,7 @@ I am Kadir! I am a Front End / Mobile Application Developer. I am developing Mob
 
 
 <a href="https://www.linkedin.com/in/kadir-yildirim-a5a433200/" target="_blank">
-    <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/kadir-yildirim-a5a433200/">
+    <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="www.linkedin.com/in/kadiryildirim1">
 </a>
 
 <a href="mailto:kadiryildirim2022@gmail.com" target="_blank">
